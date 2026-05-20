@@ -1,0 +1,31 @@
+<!-- Header -->
+<header class="bg-gray-900 text-white py-4 px-6 md:px-12 lg:px-24 sticky top-0 z-50 shadow-md">
+    <div class="container mx-auto flex justify-between items-center">
+        <!-- Logo -->
+        <a href="/" class="flex items-center space-x-2">
+            <img src="/images/NC-Logo-White.png" alt="Nations Community Logo" class="h-10 md:h-12">
+        </a>
+
+        <!-- Navigation -->
+        <nav class="hidden md:flex space-x-6" id="desktop-nav">
+            <a href="/" class="hover:text-orange-400 nav-link">HOME</a>
+            <a href="/about/" class="hover:text-orange-400 nav-link">ABOUT</a>
+            <a href="https://www.instagram.com/nations.community/" target="_blank" rel="noopener noreferrer" class="hover:text-orange-400">CONTACT</a>
+        </nav>
+
+        <!-- Mobile Menu Button -->
+        <button class="md:hidden focus:outline-none text-white" id="mobile-menu-button">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+        </button>
+    </div>
+    <!-- Mobile Menu -->
+    <div class="md:hidden hidden bg-gray-900 text-white" id="mobile-menu">
+         <nav class="flex flex-col space-y-2 mt-4 px-2 pb-3" id="mobile-nav">
+            <a href="/" class="block px-3 py-2 rounded-md text-base font-medium hover:text-orange-400 hover:bg-gray-700 nav-link">HOME</a>
+            <a href="/about/" class="block px-3 py-2 rounded-md text-base font-medium hover:text-orange-400 hover:bg-gray-700 nav-link">ABOUT</a>
+            <a href="https://www.instagram.com/nations.community/" target="_blank" rel="noopener noreferrer" class="block px-3 py-2 rounded-md text-base font-medium hover:text-orange-400 hover:bg-gray-700">CONTACT</a>
+        </nav>
+    </div>
+</header> 
