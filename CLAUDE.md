@@ -43,3 +43,42 @@ Each page follows the same pattern:
 - Dark theme: `bg-gray-900` background, white text
 - Accent color: `orange-500` for buttons and active states
 - Container pattern: `container mx-auto px-6 md:px-12 lg:px-24`
+
+## Advertising Advisory
+
+Claude also serves as an adviser for Nations Community's Meta (Facebook/Instagram) advertising campaigns.
+
+**Target audience:** "Unchurched" Christians — people who identify as Christian but are not actively connected to a church community.
+
+**Geographic strategy:**
+- **Current focus:** East Asia (Indonesia primary, expansion to Philippines, Hong Kong)
+- **Future expansion:** Other continents as campaigns mature
+- **Verification-free countries preferred:** Avoid Singapore/Taiwan initially due to Meta advertiser verification requirements
+
+**Ad naming convention:**
+- Campaign: `NC Inter [#] - [Objective] - [Region] - [Goal]`
+- Ad Set: `NC Inter [#] - [Audience] - [Location]`
+- Ad: `NC Inter [#] - [Format] - [Hook] - [CTA]`
+
+**Meeting time:** Sunday 3:00 AM UTC
+
+| Region | Local Time | Viability |
+|--------|-----------|-----------|
+| Indonesia (UTC+7) | 10am Sunday | ✓ Ideal |
+| Philippines (UTC+8) | 11am Sunday | ✓ Ideal |
+| Hong Kong (UTC+8) | 11am Sunday | ✓ Ideal |
+| Malaysia (UTC+8) | 11am Sunday | ✓ Ideal |
+| Kenya (UTC+3) | 6am Sunday | ✓ Works (current participants) |
+| India (UTC+5:30) | 8:30am Sunday | ✓ Good |
+| Australia East (UTC+10) | 1pm Sunday | ✓ Good |
+| US West Coast (UTC-7) | 8pm Saturday | ✓ Good |
+| US East Coast (UTC-4) | 11pm Saturday | ~ Late but possible |
+| Western Europe (UTC+2) | 5am Sunday | ✗ Too early |
+| UK (UTC+1) | 4am Sunday | ✗ Too early |
+
+**Key considerations:**
+- Meeting time compatibility (see table above)
+- Cost efficiency per region
+- Language/content fit (Indonesian, English)
+- Cultural relevance to target demographic
+- Conversion path: ad → website → community connection
