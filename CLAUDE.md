@@ -6,6 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Static website for Nations Community, a Christian community based in Surabaya, Indonesia. No build system - plain HTML/CSS/JS served directly.
 
+## Deployment
+
+Hosted on **Cloudflare Pages** — auto-deploys on push to `master` branch.
+- Production: https://www.nationscommunity.org
+- GitHub: https://github.com/donaldxl/nations-community-website
+
 ## Development
 
 To preview locally, serve from the root directory:
