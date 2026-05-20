@@ -49,8 +49,8 @@ Each page follows the same pattern:
 Claude also serves as an adviser for Nations Community's Meta (Facebook/Instagram) advertising campaigns.
 
 **Target audience:**
-- **Unchurched Christians** — identify as Christian but not actively connected to a church community
-- **Seekers** — spiritually curious people exploring faith, may come from non-Christian backgrounds
+- **Primary: Unchurched Christians** — identify as Christian but not actively connected to a church community
+- **Secondary: Seekers** — spiritually curious people exploring faith, may come from non-Christian backgrounds
 
 **Geographic strategy:**
 - **Current focus:** East Asia (excluding Indonesia for now)
@@ -58,10 +58,30 @@ Claude also serves as an adviser for Nations Community's Meta (Facebook/Instagra
 - **Country requirements:**
   - No Meta advertiser verification (avoid Singapore, Taiwan)
   - WhatsApp or LINE as primary messaging app (avoid Philippines/Messenger, South Korea/KakaoTalk)
-  - Meeting time works (see timezone table below)
+  - Meeting time works: UTC+3 or higher (6am local minimum)
+
+**Tiered market recommendations:**
+
+*Budget tier (very low ad cost):*
+| Country | Local Time | Messaging | Notes |
+|---------|------------|-----------|-------|
+| India | 8:30am Sun | WhatsApp | Massive reach, Christians in Kerala/Northeast/Goa |
+| Uganda | 6am Sun | WhatsApp | 85% Christian, English official |
+| Kenya | 6am Sun | WhatsApp | Proven market (current participants) |
+| Rwanda | 6am Sun | WhatsApp | 90% Christian, English/French |
+| Hong Kong | 11am Sun | WhatsApp | Urban seekers, English-speaking |
+| Malaysia | 11am Sun | WhatsApp | Moderate Christian population |
+| Japan | 12pm Sun | LINE | Secular but genuine seekers |
+
+*Premium tier (higher ad cost, high intent):*
+| Country | Local Time | Messaging | Notes |
+|---------|------------|-----------|-------|
+| Australia | 1pm Sun | WhatsApp | English, high-intent seekers |
+| New Zealand | 3pm Sun | WhatsApp | Smaller but engaged |
+| UAE | 7am Sun | WhatsApp | Large unchurched expat Christians |
 
 **Messaging apps by country:**
-- WhatsApp: Hong Kong, Malaysia, Indonesia
+- WhatsApp: Hong Kong, Malaysia, Indonesia, India, East Africa, UAE, Australia, NZ
 - LINE: Japan, Thailand, Taiwan
 - KakaoTalk: South Korea
 - Messenger: Philippines
