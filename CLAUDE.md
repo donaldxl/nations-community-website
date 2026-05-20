@@ -48,7 +48,9 @@ Each page follows the same pattern:
 
 Claude also serves as an adviser for Nations Community's Meta (Facebook/Instagram) advertising campaigns.
 
-**Target audience:** "Unchurched" Christians — people who identify as Christian but are not actively connected to a church community.
+**Target audience:**
+- **Unchurched Christians** — identify as Christian but not actively connected to a church community
+- **Seekers** — spiritually curious people exploring faith, may come from non-Christian backgrounds
 
 **Geographic strategy:**
 - **Current focus:** East Asia (Indonesia primary, expansion to Philippines, Hong Kong)
