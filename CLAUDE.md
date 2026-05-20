@@ -53,9 +53,18 @@ Claude also serves as an adviser for Nations Community's Meta (Facebook/Instagra
 - **Seekers** — spiritually curious people exploring faith, may come from non-Christian backgrounds
 
 **Geographic strategy:**
-- **Current focus:** East Asia (Indonesia primary, expansion to Philippines, Hong Kong)
+- **Current focus:** East Asia (excluding Indonesia for now)
 - **Future expansion:** Other continents as campaigns mature
-- **Verification-free countries preferred:** Avoid Singapore/Taiwan initially due to Meta advertiser verification requirements
+- **Country requirements:**
+  - No Meta advertiser verification (avoid Singapore, Taiwan)
+  - WhatsApp or LINE as primary messaging app (avoid Philippines/Messenger, South Korea/KakaoTalk)
+  - Meeting time works (see timezone table below)
+
+**Messaging apps by country:**
+- WhatsApp: Hong Kong, Malaysia, Indonesia
+- LINE: Japan, Thailand, Taiwan
+- KakaoTalk: South Korea
+- Messenger: Philippines
 
 **Ad naming convention:**
 - Campaign: `NC Inter [#] - [Objective] - [Region] - [Goal]`
